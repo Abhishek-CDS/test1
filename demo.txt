@@ -1,3 +1,6 @@
 This is in Master 
 
 This is 2nd line from master
+
+
+THIS IS LINE 3
